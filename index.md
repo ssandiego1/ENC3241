@@ -10,6 +10,6 @@ Samuel is a future cybersecurity analyst currently pursuing a bachelor’s degre
 ## Professional Writing Samples/Projects
 
 - [Resume](resume.html)
-- [Cover Letter](coverletter.md)
+- [Cover Letter](coverletter)
 - [Instructions](instructions.html)
-- [Proposal](proposal.md)
+- [Proposal](proposal)
