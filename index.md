@@ -12,4 +12,4 @@ Samuel is a future cybersecurity analyst currently pursuing a bachelor’s degre
 - [Resume](resume.html)
 - [Cover Letter](CoverLetter.html)
 - [Instructions](instructions.html)
-- [Proposal](proposal)
+- [Proposal](Proposal.html)
